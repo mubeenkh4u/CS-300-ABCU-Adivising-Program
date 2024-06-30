@@ -1,6 +1,6 @@
 ## Introduction
 The ABCU Advising Program, which provides a powerful and effective tool for improving the advising experience, marks a significant development in academic assistance technology at ABCU. By giving students timely and precise information for their educational journey, we hope to not only increase the advising office's operating efficiency but also positively impact their academic performance. Below is the linked Project Folder to access the Big-O-Runtime Analysis as well as the completed CPP+ program implementing Hash Tables. 
-  * [Project Folder](https://github.com/mubeenkh4u/CS-300-ABCU-Adivising-Program/Project%20Folder)
+  * [Project Folder](https://github.com/mubeenkh4u/CS-300-ABCU-Adivising-Program/tree/main/Project%20Folder)
 
 ## Problem Solving in Projects
 The main challenge in this course's projects was to successfully organize and edit course data so that all of the material—including prerequisites—could be effectively saved, retrieved, and updated. In order to decide which data structure would best satisfy the objectives for performance and usability, this included generating and analyzing a variety of data structures.
